@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779206272247",
+    "project_id": "panumas-a10a8",
+    "storage_bucket": "panumas-a10a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779206272247:android:838673e43de8bef0f85ff2",
+        "android_client_info": {
+          "package_name": "com.example.panumas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfoClPPS6i3haHmqaPur13FRZtSDzBuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
